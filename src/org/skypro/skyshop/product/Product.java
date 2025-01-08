@@ -9,6 +9,7 @@ public class Product {
         this.productPrice = productPrice1;
     }
 
+
     public String getProductName() {
         return productName;
     }

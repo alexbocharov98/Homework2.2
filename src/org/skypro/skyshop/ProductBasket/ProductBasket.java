@@ -13,6 +13,7 @@ public class ProductBasket {
             arr[pointer] = product;
             pointer = pointer + 1;
         }
+
     }
 
     public int summ() {
