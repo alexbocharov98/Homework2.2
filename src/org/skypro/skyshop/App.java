@@ -26,5 +26,6 @@ public class App {
         productBasket.printing();
         System.out.println(productBasket.summ());
         System.out.println(productBasket.hasProduct("Хлеб"));
+
     }
 }

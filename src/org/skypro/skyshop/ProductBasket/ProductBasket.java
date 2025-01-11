@@ -50,6 +50,5 @@ public class ProductBasket {
         }
         pointer = 0;
     }
-
 }
 
