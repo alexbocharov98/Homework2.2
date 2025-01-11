@@ -32,7 +32,6 @@ public class ProductBasket {
             }
             System.out.println("Итого: " + summ());
         }
-
     }
 
     public boolean hasProduct(String productName) {
