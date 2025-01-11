@@ -21,5 +21,6 @@ public class Product {
     public void setProductPrice(int productPrice) {
         this.productPrice = productPrice;
     }
+
 }
 
